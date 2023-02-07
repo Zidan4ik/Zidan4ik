@@ -4,9 +4,8 @@
  * Hello, my name is Roman 
  
  * I'm a student at the National University of Ukraine "__Lviv__ __Polytechnic__"(172 Telecommunications and radio engineering)
-
-
-Languages and Tools 
+ * My favourite languages :
+ <img src="https://upload.wikimedia.org/wikipedia/uk/8/85/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_Java.png" width="150" high="150">
 
 Follow me 
 
