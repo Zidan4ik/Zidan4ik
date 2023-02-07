@@ -2,9 +2,9 @@
 
 ## 👨‍💻 A few words about me :
  * Hello, my name is Roman 
- ___
+ 
  * I'm a student at the National University of Ukraine "__Lviv__ __Polytechnic__"(172 Telecommunications and radio engineering)
-___
+
 
 Languages and Tools 
 
