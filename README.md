@@ -32,3 +32,6 @@ I prefer to study materials comprehensively, which allows me to better understan
 <p align="center">
   <b>Languages:</b> Ukrainian (Native) 🇺🇦 | English (B2) 🇬🇧
 </p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
