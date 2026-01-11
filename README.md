@@ -34,13 +34,6 @@ I prefer to study materials comprehensively, which allows me to better understan
 </p>
 
 
-<table width="100%">
-  <tr>
-    <td width="100%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical&title=Zidan4ik's%20GitHub%20Stats" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="100%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical&title=Zidan4ik's%20Languages&layout=compact" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+![Zidan4ik's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical&title=Zidan4ik's%20GitHub%20Stats)
+
+![Zidan4ik's Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical&title=Zidan4ik's%20Languages&layout=compact&card_width=495)
