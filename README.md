@@ -13,9 +13,20 @@ I prefer to study materials comprehensively, which allows me to better understan
     * **Specialty:** 172 Telecommunications and Radio Engineering.
  
 ### 💻 The Stack I Trust
-![Java](https://img.shields.io/badge/Java-Programming%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /> Java
+<br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Scripting%20Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> JavaScript
+<br/><br/>
+
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" /> Docker
+<br/><br/>
+
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL
+<br/><br/>
+
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> PostgreSQL
+<br/><br/>
 
 ---
 
