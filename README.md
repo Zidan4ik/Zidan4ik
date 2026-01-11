@@ -37,3 +37,11 @@ I prefer to study materials comprehensively, which allows me to better understan
 ---
 
 ![Zidan4ik's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical&title=Zidan4ik's%20GitHub%20Stats)![Zidan4ik's Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical&title=Zidan4ik's%20Languages&layout=compact&card_width=455&card_height=195)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zidan4ik&theme=radical)
+
+[![trophies](https://github-profile-trophy.vercel.app/?username=Zidan4ik&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Zidan4ik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zidan4ik&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Zidan4ik&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
