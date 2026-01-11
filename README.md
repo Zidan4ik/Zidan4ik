@@ -37,4 +37,4 @@ I prefer to study materials comprehensively, which allows me to better understan
 ---
 
 <img align="left" width="50%" alt="Top langs" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical" />
-<img align="right" width="45%" height="145px" alt="Zindai4k" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical" />
+<img align="right" width="45%" height="200px" alt="Zindai4k" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical" />
