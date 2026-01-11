@@ -16,5 +16,5 @@ I am a Java developer who is constantly improving my knowledge and learning new 
 
 ---
 <p align="center">
-  <b>Languages:</b> Ukrainian (Native) 🇺🇦 | English (B2) 🇬🇧 |
+  <b>Languages:</b> Ukrainian (Native) 🇺🇦 | English (B2) 🇬🇧
 </p>
