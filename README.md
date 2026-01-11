@@ -38,9 +38,6 @@ I prefer to study materials comprehensively, which allows me to better understan
 
 ![Zidan4ik's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical&title=Zidan4ik's%20GitHub%20Stats)![Zidan4ik's Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical&title=Zidan4ik's%20Languages&layout=compact&card_width=455&card_height=195)
 
-<img align="left" width="50%" alt="Top langs" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical" />
+<img align="left" width="100%" alt="Top langs" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical" />
+
 ![Zidan4ik's Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical&title=Zidan4ik's%20Languages&layout=compact&card_width=455&card_height=195)
-
-
-
-<img align="right" width="45%" height="200px" alt="Zindai4k" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical" />
