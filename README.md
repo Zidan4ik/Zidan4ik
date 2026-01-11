@@ -13,10 +13,6 @@ I prefer to study materials comprehensively, which allows me to better understan
     * **Specialty:** 172 Telecommunications and Radio Engineering.
  
 ### 💻 The Stack I Trust
-<a href="#">
-  <img src="https://e7.pngegg.com/pngimages/405/878/png-clipart-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text.png" width="25" height="25" style="vertical-align:middle">
-  <b>Java</b>
-</a>
 [![Java Badge](https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=white)](#) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)](#)
 
 ---
