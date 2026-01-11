@@ -1,10 +1,6 @@
 # Hello, I'm Roman 👋
 ### Java Developer | Passionate Learner | Student at Lviv Polytechnic
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=Zidan4ik&label=Profile%20views&color=0e75b6&style=flat" alt="Zidan4ik" />
-</p>
-
 I am a Java developer who is constantly improving my knowledge and learning new technologies. I prefer to study materials comprehensively, which allows me to better understand the context and quickly adapt to changes in the technology stack.
 
 ### 🎓 Education
@@ -20,5 +16,5 @@ I am a Java developer who is constantly improving my knowledge and learning new 
 
 ---
 <p align="center">
-  <b>Languages:</b> Ukrainian (Native) 🇺🇦 | English (B2) 🇬🇧 | [cite_start]Russian (C2) [cite: 81, 100, 102]
+  <b>Languages:</b> Ukrainian (Native) 🇺🇦 | English (B2) 🇬🇧 |
 </p>
