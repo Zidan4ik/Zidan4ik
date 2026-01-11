@@ -11,6 +11,12 @@ I prefer to study materials comprehensively, which allows me to better understan
     * **Program:** Smart Devices of Radio Electronics and Embedded Systems.
 * **Bachelor's Degree | Lviv Polytechnic National University** (Dec 2021 — Aug 2025)
     * **Specialty:** 172 Telecommunications and Radio Engineering.
+ 
+### 💻 The Stack I Trust
+![Java](https://img.shields.io/badge/Java-Programming%20Language-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Scripting%20Language-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ---
 
 ### 📬 Reach me out
