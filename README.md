@@ -29,12 +29,12 @@ I prefer to study materials comprehensively, which allows me to better understan
 [![Phone](https://img.shields.io/badge/Phone-+380982370190-4CAF50?style=for-the-badge&logo=google-messages&logoColor=white)](tel:+380982370190)
 
 ---
+
 <p align="center">
   <b>Languages:</b> Ukrainian (Native) 🇺🇦 | English (B2) 🇬🇧
 </p>
 
+---
 
-![Zidan4ik's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical&title=Zidan4ik's%20GitHub%20Stats)![Zidan4ik's Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical&title=Zidan4ik's%20Languages&layout=compact&card_width=455&card_height=195)
-
-
-<img align="right" width="47%" alt="Zindai4k" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical" />
+<img align="left" alt="Top langs" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical" />
+<img align="right" alt="Zindai4k" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical" />
