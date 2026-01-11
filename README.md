@@ -34,4 +34,4 @@ I prefer to study materials comprehensively, which allows me to better understan
 </p>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical)
