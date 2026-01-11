@@ -2,6 +2,7 @@
 ### Java Developer | Passionate Learner | Student at Lviv Polytechnic
 
 I am a Java developer who is constantly improving my knowledge and learning new technologies.
+
 I prefer to study materials comprehensively, which allows me to better understand the context and quickly adapt to changes in the technology stack.
 
 ### 🎓 Education
