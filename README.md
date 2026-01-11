@@ -35,3 +35,4 @@ I prefer to study materials comprehensively, which allows me to better understan
 
 
 ![Zidan4ik's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical&title=Zidan4ik's%20GitHub%20Stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan4ik)](https://github.com/anuraghazra/github-readme-stats)
