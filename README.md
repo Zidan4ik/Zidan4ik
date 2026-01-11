@@ -15,16 +15,6 @@ I prefer to study materials comprehensively, which allows me to better understan
 ### 💻 The Stack I Trust
 [![Java Badge](https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=white)](#) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)](#)
 
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/128/152/152760.png" width="35" height="35" alt="Java" />
-  </a>
-  <strong style="font-size: 20px; vertical-align: middle; margin-left: 10px;">Java</strong>
-</p>
-
-
-[![Java Badge](https://img.shields.io/badge/-Java-B00000?style=for-the-badge&labelColor=black&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAAsTAAALEwEAmpwYAAABm0lEQVQ4T6XTP0vDQBQH8HMpSCl0K8mSUnAtSOnS0tK6u7S0S0tLu7S0S8tL69LS0tK6u7S0lEInBykoSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpSCl0KXQpSCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQpdCl0KXQp/gIn9V16Y8p36QAAAABJRU5ErkJggg==)](#) [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#) [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#) [![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#) [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)](#)
 ---
 
 ### 📬 Reach me out
