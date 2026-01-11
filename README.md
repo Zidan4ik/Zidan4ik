@@ -17,7 +17,7 @@ I prefer to study materials comprehensively, which allows me to better understan
 
 ---
 
-### 📬 Reach me out
+### 📬 Reach Me Out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman%20Pravnyk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-p-aa736b281/)
 [![Telegram](https://img.shields.io/badge/Telegram-@AlFr1eD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlFr1eD)
