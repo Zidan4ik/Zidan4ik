@@ -38,4 +38,3 @@ I prefer to study materials comprehensively, which allows me to better understan
 
 
 <img align="right" width="47%" alt="Zindai4k" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zidan4ik&theme=radical" />
-<img align="left" alt="Top langs" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zidan4ik&show_icons=true&theme=radical" />
