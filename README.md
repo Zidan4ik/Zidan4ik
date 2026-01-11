@@ -5,6 +5,8 @@ I am a Java developer who is constantly improving my knowledge and learning new 
 
 I prefer to study materials comprehensively, which allows me to better understand the context and quickly adapt to changes in the technology stack.
 
+---
+
 ### 🎓 Education
 * **Master's Degree | Lviv Polytechnic National University** (Sep 2025 — Present)
     * **Specialty:** 172 Electronic Communications and Radio Engineering.
