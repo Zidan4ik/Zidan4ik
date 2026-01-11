@@ -16,8 +16,11 @@ I prefer to study materials comprehensively, which allows me to better understan
 ### 📬 Reach me out
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman%20Pravnyk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-pravnyk-aa736b281/)
-[![Telegram](https://img.shields.io/badge/Telegram-@AlFrleD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlFrleD)
+
+[![Telegram](https://img.shields.io/badge/Telegram-@AlFr1eD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlFrleD)
+
 [![Email](https://img.shields.io/badge/Email-roomich20031@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roomich20031@gmail.com)
+
 [![Phone](https://img.shields.io/badge/Phone-+38098237019-4CAF50?style=for-the-badge&logo=google-messages&logoColor=white)](tel:+38098237019)
 
 ---
