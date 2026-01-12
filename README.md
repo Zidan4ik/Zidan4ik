@@ -1,9 +1,9 @@
-# Hello, I'm Roman 👋
+# Hello, I'm Roman 👋 (22 y.o.)
 ### Java Developer | Passionate Learner | Student at Lviv Polytechnic
 
 I am a Java developer who is constantly improving my knowledge and learning new technologies.
 
-I prefer to study materials comprehensively, which allows me to better understand the context and quickly adapt to changes in the technology stack.
+I refuse to settle for 'just enough.' My goal is to constantly push my limits and surpass my own potential, delivering results that go far beyond the standard.
 
 ---
 
