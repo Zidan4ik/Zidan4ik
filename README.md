@@ -26,7 +26,8 @@ I refuse to settle for 'just enough.' My goal is to constantly push my limits an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roman%20Pravnyk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-p-aa736b281/)
 [![Telegram](https://img.shields.io/badge/Telegram-@AlFr1eD-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlFr1eD)
 [![Email](https://img.shields.io/badge/Email-roomich20031@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roomich20031@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+380982370190-4CAF50?style=for-the-badge&logo=google-messages&logoColor=white)](tel:+380982370190)
+[![UA Phone](https://img.shields.io/badge/UA-%2B380%2098%20237%200190-4CAF50?style=for-the-badge&logo=google-messages&logoColor=white)](tel:+380982370190)
+[![CZ Phone](https://img.shields.io/badge/CZ-%2B420%20722%20534%20576-2196F3?style=for-the-badge&logo=google-messages&logoColor=white)](tel:+420722534576)
 
 ---
 
